@@ -2,7 +2,8 @@ Overleaf link with edit access to course instructor gmail and then email "anybod
 
 
 Link to unlisted YouTube video:
-https://www.youtube.com/@md.mohiburzaman6472/featured 
+(https://www.youtube.com/@md.mohiburzaman6472/featured)
+
 
 Public link to the slide (Anyone on the internet can view without login):
 
