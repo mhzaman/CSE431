@@ -1,6 +1,7 @@
 Link to unlisted YouTube video:
 
 Two public links to the Concept Map (anyone on the internet can view without login):
+https://github.com/mhzaman/CSE431/blob/main/submission3/Task03.pdf
 
 Native/original format:
 https://drive.google.com/file/d/1UP8kIcRW9Ylibb0mts5ITia4CtbH4M2j/view?usp=sharing
