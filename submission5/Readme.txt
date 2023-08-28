@@ -6,6 +6,9 @@ Unlisted YouTube video:
 Paper title:
 Enhancing Banglish Text Accuracy: NLP-Based Error Detection and Correction
 
+Paper presentation (anyone can view without login):
+https://docs.google.com/presentation/d/1Kfdc-QyLijuilaWbYptTxiaH1UaASFrXSJzfqlu5PPg/edit?usp=sharing
+
 Group Number:
 15
 
