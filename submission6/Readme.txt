@@ -4,11 +4,26 @@ https://www.overleaf.com/8377536269yczsdwrhbdkj
 Unlisted YouTube video:
 https://youtu.be/brFcSsgD-ZY
 
+Conference submitted paper / paper submission / login Link:
+
+
 Paper title:
 Enhancing Banglish Text Accuracy: NLP-Based Error Detection and Correction
 
 Paper presentation (anyone can view without login):
 https://docs.google.com/presentation/d/164-P1-ZwR2pLXEKNdgYKeKQ092elpIjcO8-4Rp1EU3g/edit?usp=sharing
+
+Paper submission date (to workshop/conference):
+
+
+Paper submission ID: (received) from conference/workshop
+
+
+Conference Name:
+
+
+Conference URL:
+
 
 Group Number:
 15
