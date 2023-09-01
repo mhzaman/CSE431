@@ -2,6 +2,7 @@ Overleaf link with edit access to course instructor gmail and then email "anybod
 https://www.overleaf.com/project/649857005563d514fbe98ba3
 
 Unlisted YouTube video:
+https://youtu.be/7c7WmBu9xdw
 
 Paper title:
 Enhancing Banglish Text Accuracy: NLP-Based Error Detection and Correction
