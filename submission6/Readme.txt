@@ -13,16 +13,15 @@ Enhancing Banglish Text Accuracy: NLP-Based Error Detection and Correction
 Paper presentation (anyone can view without login):
 https://docs.google.com/presentation/d/164-P1-ZwR2pLXEKNdgYKeKQ092elpIjcO8-4Rp1EU3g/edit?usp=sharing
 
-Paper submission date (to workshop/conference):
+Paper submission date (to workshop/conference): 14/9/2o23
+
+Paper submission ID: (received) from conference/workshop: 390
 
 
-Paper submission ID: (received) from conference/workshop
+Conference Name: ICCIT
 
 
-Conference Name:
-
-
-Conference URL:
+Conference URL: https://iccit.org.bd/2023/
 
 
 Group Number:
